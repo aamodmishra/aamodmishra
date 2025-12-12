@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Aamod Mishra
 
-I'm a Software Engineering student (6th semester) who enjoys building clean, efficient, and practical solutions.  
+I'm a Software Engineering student (8th semester) who enjoys building clean, efficient, and practical solutions.  
 I focus on writing code that is simple, understandable, and useful.
 
 ## 🔧 Technologies & Tools I Use
-- **Programming:** Python, Java, JavaScript, C  
+- **Programming:** Python, JavaScript, C  
 - **Web:** HTML, CSS, Node.js, Express  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Version Control:** Git & GitHub  
