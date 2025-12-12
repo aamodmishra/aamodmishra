@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Aamod Mishra
 
-<!--
-**aamodmishra/aamodmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student (6th semester) who enjoys building clean, efficient, and practical solutions.  
+I focus on writing code that is simple, understandable, and useful.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools I Use
+- **Programming:** Python, Java, JavaScript, C  
+- **Web:** HTML, CSS, Node.js, Express  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Version Control:** Git & GitHub  
+- **Other:** Linux, REST APIs, basic DevOps concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Currently Learning
+- Backend development (API design, authentication, clean architecture)  
+- Frontend fundamentals and UI building  
+- Artificial Intelligence & Machine Learning basics  
+- Improving problem-solving and writing clean code
+
+## 🛠️ Personal Projects
+- Multiple solo projects across web development, backend, and automation  
+- Working on improving code quality and documentation  
+- Exploring small tools & utilities that solve daily problems  
+(You can explore my repositories below 👇)
+
+## 🎯 Goals
+- Strengthen backend engineering  
+- Improve full-stack development workflow  
+- Learn and apply AI/ML concepts  
+- Contribute to open-source projects
+
+## ⚽ In My Free Time
+I enjoy watching football almost every day — it's my hobby for relaxation.
+
+## 📫 Connect With Me
+- **GitHub:** https://github.com/aamodmishra  
+- **LinkedIn:** https://www.linkedin.com/in/aamod-mishra-43450b283/ 
+- **Email:** aamodmishra111@gmail.com
